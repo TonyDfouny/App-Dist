@@ -1,5 +1,4 @@
-Softwares et version utilisées
-
+Softwares et version utilisées:
 Tomcat 10.0
 
 clone the folder to tomcat repository/webapps
